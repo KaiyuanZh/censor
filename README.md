@@ -8,6 +8,7 @@ Table of Contents
 - [Overview](#Overview)
 - [Paper](https://kaiyuanzhang.com/publications/NDSS25_Censor.pdf)
 - [Install required packages](#Install-required-packages)
+- [Download models](#Download-models)
 - [How to Run the Code](#How-to-Run-the-Code)
 - [Citation](#Citation)
 - [Acknowledgement](#Acknowledgement)
@@ -28,6 +29,11 @@ Table of Contents
 conda env create -f env.yml
 conda activate censor 
 ```  
+
+## Download models
+  - download the `shape_predictor_68_face_landmarks.dat` from [here](https://drive.google.com/drive/folders/1B2I-1cXbvoYlMK-dSUsXwSuNo9LhcV1V?usp=sharing) to the root `censor` directory.
+  - download the `stylegan2-ffhq-config-f.pt` from [here](https://drive.google.com/drive/folders/1B2I-1cXbvoYlMK-dSUsXwSuNo9LhcV1V?usp=sharing) to the `/inversefed/genmodels/stylegan2_io/` directory.
+
 
 ## How to Run the Code
 ```bash
