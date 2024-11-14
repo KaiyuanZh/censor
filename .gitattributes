@@ -1,0 +1,2 @@
+shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+inversefed/genmodels/stylegan2_io/stylegan2-ffhq-config-f.pt filter=lfs diff=lfs merge=lfs -text
