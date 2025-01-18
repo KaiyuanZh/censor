@@ -82,7 +82,3 @@ Part of the code is adapted from the following repos. We express great gratitude
 - [GIFD_Gradient_Inversion_Attack](https://github.com/ffhibnese/GIFD_Gradient_Inversion_Attack)
 
 The BigGAN implementation, we use PyTorch official [implementation and weights](https://github.com/rosinality/stylegan2-pytorch). For StyleGAN2, we adapt this [Pytorch implementation](https://github.com/rosinality/stylegan2-pytorch), which is based on the [official Tensorflow code](https://github.com/NVlabs/stylegan2).
-
-## Special thanks to...
-[![Stargazers repo roster for @KaiyuanZh/censor](https://reporoster.com/stars/KaiyuanZh/censor)](https://github.com/KaiyuanZh/censor/stargazers)
-[![Forkers repo roster for @KaiyuanZh/censor](https://reporoster.com/forks/KaiyuanZh/censor)](https://github.com/KaiyuanZh/censor/network/members)
